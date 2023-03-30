@@ -41,7 +41,7 @@ if(isset($_POST['email'])) {
         'port' => 465,
         'auth' => true,
         'username' => 'devfabiogarcia@gmail.com',
-        'password' => 'fpp180783'
+        'password' => ''
     );
 
     // Criação do objeto PHPMailer
