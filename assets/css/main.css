@@ -3959,3 +3959,12 @@ input, select, textarea {
 			  padding: 0 1% 1% 1%;
 			  left: 50%;
 			}
+		@media screen and (max-width: 768px){
+			.fb-share-button{
+			  transform: scale(1.8);
+			  transform-origin: top left;
+			  background-color: transparent;
+			  left: 10%;
+
+			 }			 }
+			}
