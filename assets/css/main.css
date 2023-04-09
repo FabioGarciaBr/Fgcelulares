@@ -3961,7 +3961,7 @@ input, select, textarea {
 			}
 		@media screen and (max-width: 768px){
 			.fb-share-button{
-			  transform: scale(3);
+			  transform: scale(2.5);
 			  transform-origin: top left;
 			  background-color: transparent;
 			  left: 10%;
