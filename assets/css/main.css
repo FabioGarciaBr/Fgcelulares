@@ -3950,3 +3950,12 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+		.fb-share-button {
+			  transform: scale(1.8);
+			  transform-origin: top left;
+			  margin-top: -10%;
+			  background-color: white;
+			  border-radius: 6px;
+			  padding: 0 1% 1% 1%;
+			  left: 50%;
+			}
