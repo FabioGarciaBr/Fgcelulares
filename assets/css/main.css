@@ -3954,17 +3954,20 @@ input, select, textarea {
 			  transform: scale(1.8);
 			  transform-origin: top left;
 			  margin-top: -10%;
-			  background-color: white;
+			  background-color: transparent;
 			  border-radius: 6px;
 			  padding: 0 1% 1% 1%;
 			  left: 50%;
 			}
+
 		@media screen and (max-width: 768px){
+
 			.fb-share-button{
-			  transform: scale(2.5);
+			  transform: scale(2);
 			  transform-origin: top left;
 			  background-color: transparent;
-			  left: 10%;
+			  
+
 
 			 }			 }
 			}
