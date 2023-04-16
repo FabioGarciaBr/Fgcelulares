@@ -3966,12 +3966,12 @@ input, select, textarea {
 
 		@media screen and (max-width: 768px){
 
-			.fb-share-button{
+			/*.fb-share-button{
 			  transform: scale(2);
 			  transform-origin: top left;
 			  background-color: transparent;
 			  
-			 }	
+			 }*/	
 			 #imgmedia{
 			 	max-width: 100%;
 			 }
