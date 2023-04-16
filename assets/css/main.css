@@ -3960,6 +3960,10 @@ input, select, textarea {
 			  left: 50%;
 			}
 
+		#imgmedia{
+			max-width: 500p
+		}
+
 		@media screen and (max-width: 768px){
 
 			.fb-share-button{
@@ -3967,7 +3971,12 @@ input, select, textarea {
 			  transform-origin: top left;
 			  background-color: transparent;
 			  
+			 }	
+			 #imgmedia{
+			 	max-width: 100%;
+			 }
 
-
-			 }			 }
+			 
+			 		 }
 			}
+
