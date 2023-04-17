@@ -3977,6 +3977,7 @@ input, select, textarea {
 			  transform: scale(2);
 			  transform-origin: top left;
 			  background-color: white;
+			  left: 53%;
 
 			  
 			 }
